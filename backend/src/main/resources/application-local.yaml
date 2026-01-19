@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+
+logging:
+  level:
+    com.example.demo: DEBUG

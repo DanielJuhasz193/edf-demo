@@ -1,0 +1,107 @@
+{
+  "fileName": "ZE-970-007-593.edf",
+  "identifier": "Startdate 22-AUG-2025 0822-2 David_Nagy Zeto_WR-19",
+  "recordingDateTime": "2025-08-22 04:33:33",
+  "patientName": "Anonymous",
+  "channelNumber": 19,
+  "recordingLength": "84",
+  "annotationNumber": 0,
+  "channels": [
+    {
+      "name": "EEG C3",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG C4",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG Cz",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG F3",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG F4",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG F7",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG F8",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG Fp1",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG Fp2",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG Fz",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG O1",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG O2",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG P3",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG P4",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG Pz",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG T3",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG T4",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG T5",
+      "type": "AgCl",
+      "sampleNumber": 500
+    },
+    {
+      "name": "EEG T6",
+      "type": "AgCl",
+      "sampleNumber": 500
+    }
+  ],
+  "annotations": []
+}
